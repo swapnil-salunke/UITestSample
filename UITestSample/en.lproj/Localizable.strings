@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  UITestSample
+
+  Created by Salunke, Swapnil Uday (US - Mumbai) on 30/03/20.
+  Copyright © 2020 Swapnil Salunke. All rights reserved.
+*/
+"firstOnboarding.Title" = "Onboarding 1";
+"secondOnboarding.Title" = "Onbarding 2";
+"thirdOnboarding.Title" = "Onboarding 3";
+"firstOnboarding.Description" = "This is description for First Page.";
+"secondOnboarding.Description" = "This is description for Second Page.";
+"thirdOnboarding.Description" = "This is description for Third Page.";
+"lorem.Ipsum.Text" = " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
